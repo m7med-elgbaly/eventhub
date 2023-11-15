@@ -1,0 +1,30 @@
+flutter_native_splash:
+  color: "#f48020"
+  color_dark: "#f48020"
+  text:
+    - text: "Event"
+      style:
+       fontSize: 25
+       color: "#FFFFFF"
+    - text: "Hub"
+      style:
+        fontSize: 25
+        color: "000000"
+
+
+  android_12:
+    color: "#f48020"
+    color_dark: "#f48020"
+    text:
+      - text: "Event"
+        style:
+          fontSize: 25
+          color: "#FFFFFF"
+      - text: "Hub"
+        style:
+          fontSize: 25
+          color: "000000"
+
+web: false
+
+
